@@ -55,5 +55,5 @@ return [
     | WP timeout
     |--------------------------------------------------------------------------
     */
-    'timeout' => env('WOOCOMMERCE_WP_TIMEOUT', 50),
+    'timeout' => env('WOOCOMMERCE_WP_TIMEOUT', 500),
 ];
